@@ -14,5 +14,4 @@ I'm thankful to the course instructor [Prof. Soumen chakraborthi] for the well s
 ## License
 
 This project is licensed under the MIT License - please see the [LICENSE](LICENSE) file for details.
-# cs728_project
-# cs-728-project
+# cs728_Assignments
